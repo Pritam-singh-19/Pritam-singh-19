@@ -1,146 +1,246 @@
-<h1 align="center">Hi 👋, I'm Pritam Singh</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | AWS Certified Cloud Practitioner
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C2FF,50:7F00FF,100:FF00FF&text=Pritam%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <a href="https://github.com/Pritam-singh-19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Application+Builder;AWS+Certified+Cloud+Practitioner;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
-  </a>
-</p>
+</div>
 
----
+<h1 align="center">🚀 Full Stack Developer | AI Builder | Cloud Enthusiast</h1>
 
-## 👨‍💻 About Me
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Graduate (2026)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Pritam+Singh;MERN+Stack+Developer;AI+Powered+Application+Builder;AWS+Certified+Cloud+Practitioner;Learning+DevOps+%26+Cloud+Engineering;Building+Products+That+Matter+🚀" />
 
-🏛️ Alumni of Parul University, Vadodara
-
-💻 Passionate about building Full-Stack Web Applications
-
-🤖 Interested in AI-Powered Products and Intelligent Systems
-
-☁️ AWS Certified Cloud Practitioner
-
-🚀 Currently exploring DevOps, Cloud Computing, and Scalable Architectures
-
-🎯 Goal: To become a Software Engineer building products that impact millions of users.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## ⚡ About Me
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+```yaml
+Name: Pritam Singh
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+Location: Vadodara, Gujarat 🇮🇳
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+Education:
+  Degree: B.Tech Computer Science & Engineering
+  Graduation: May 2026
+  University: Parul University Alumni 🎓
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+Current Focus:
+  - Full Stack Development
+  - AI Applications
+  - Cloud Computing
+  - DevOps
+
+Fun Fact:
+  I enjoy transforming ideas into scalable products.
+```
+
+<br>
+
+---
+
+## 🌟 What I Do
+
+🤖 Build AI-Powered Applications
+
+⚛ Develop Full-Stack MERN Projects
+
+☁️ Deploy Scalable Cloud Solutions
+
+🔐 Implement Secure Authentication Systems
+
+📄 Build OCR + RAG Based AI Systems
+
+🚀 Continuously Learning DevOps & AWS
+
+---
+
+## 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,javascript,react,nodejs,express,mongodb,aws,firebase,git,github,vscode,postman&perline=6" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ### 🤖 AI Chat Assistant
-A Full-Stack AI Chat Platform with:
 
-✔ JWT Authentication
+AI-powered chatbot platform featuring:
 
-✔ RAG-Based Document Chat
+- RAG Architecture
+- OCR Integration
+- Gemini AI
+- Groq API
+- JWT Authentication
 
-✔ OCR using Tesseract.js
+🔗 **Live Demo**
 
-✔ Gemini AI + Groq Integration
+https://ai-chat-assistant-19.netlify.app
 
-🔗 Live Demo: https://ai-chat-assistant-19.netlify.app
+</td>
 
----
+<td width="50%">
 
 ### 🏥 MedVault
-AI-Powered Medical Document Management System
 
-✔ Secure File Storage
+AI Medical Document Management System
 
-✔ JWT Authentication
+- Secure File Storage
+- JWT Authentication
+- AI Assistance
+- Medical Reminders
 
-✔ AI-Based Medical Assistance
+🔗 **Live Demo**
 
-✔ Reminder & Notification System
+https://medvault19.netlify.app
 
-🔗 Live Demo: https://medvault19.netlify.app
+</td>
 
----
+</tr>
+
+<tr>
+
+<td colspan="2">
 
 ### 🌿 Virtual Herbal Garden
-Interactive 3D Educational Platform
 
-✔ 23 Interactive 3D Models
+Interactive 3D Educational Experience
 
-✔ Three.js Integration
+- Three.js
+- 3D GLB Models
+- 360° Environment
+- React + Tailwind
 
-✔ 360° Learning Environment
+🔗 **Live Demo**
 
-✔ Optimized Performance
+https://virtual-herbal-garden-19.netlify.app
 
-🔗 Live Demo: https://virtual-herbal-garden-19.netlify.app
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ## 🏆 Certifications
 
-☁ AWS Certified Cloud Practitioner
+🏅 AWS Certified Cloud Practitioner
 
-⚛ MERN Stack Development
+🏅 MERN Stack Development
 
-🎨 UI/UX Design
+🏅 UI/UX Design
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pritam-singh-19&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pritam-singh-19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-singh-19&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-singh-19&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-singh-19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```diff
++ Docker
++ Kubernetes
++ CI/CD Pipelines
++ AWS Services
++ Linux Administration
++ System Design
++ DevOps Engineering
+```
+
+---
+
+## 🎯 2026 Goals
+
+✅ Secure Software Engineering Role
+
+✅ Master DevOps
+
+✅ Build Production-Level SaaS
+
+✅ Contribute to Open Source
+
+✅ Achieve AWS Associate Certification
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: pritamsing1906@gmail.com
+<div align="center">
 
-💼 LinkedIn: https://linkedin.com/in/pritam-singh-40044428a
+<a href="mailto:pritamsing1906@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 Portfolio: https://pritam-portfolio19.netlify.app
+<a href="https://linkedin.com/in/pritam-singh-40044428a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🐙 GitHub: https://github.com/Pritam-singh-19
+<a href="https://github.com/Pritam-singh-19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://pritam-portfolio19.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-## 💭 Developer Quote
+<div align="center">
 
-> "I don't just write code. I build solutions that solve real-world problems."
+### 💭 Developer Mindset
 
-⭐ If you like my work, consider starring my repositories.
+*"Code is not just about solving problems. It's about creating possibilities."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pritam-singh-19&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Thanks For Visiting My Profile ⚡
+
+⭐ Don't forget to star repositories you find useful!
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00C2FF,50:7F00FF,100:FF00FF"/>
